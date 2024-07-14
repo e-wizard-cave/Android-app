@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Comet Chat app</string>
+    <string name="headline">Daydream Software</string>
+    <string name="Development_Stage">Early Access</string>
+
+    <string name="Signup_button">Sign up</string>
+    <string name="Login_button">Log in</string>
+
+    <string name="S_Text_username">Username</string>
+    <string name="S_Text_email">Email</string>
+    <string name="S_Text_password">Password</string>
+    <string name="S_Text_M_password">Repeat Password</string>
+    <string name="F_Signup_button">Finish</string>
+
+    <string name="menu_Exit">Sign Out</string>
+    <string name="menu_Profile">User Profile</string>
+    <string name="menu_About">About Me</string>
+    <string name="menu_Stickers">Stickers</string>
+
+    <string name="Username">Name of User</string>
+    <string name="item_name_user">Name of User</string>
+    <string name="item_email_user">Email of User</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DB_search_user">Search User</string>
+
+    <!-- Profile String -->
+    <string name = "pUsername">Username </string>
+    <string name = "pEmail">Email </string>
+    <string name = "pFname">First Name </string>
+    <string name = "pSurname">Last Name </string>
+    <string name = "pAge">Age </string>
+    <string name = "pCountry">Country </string>
+    <string name = "pState">State </string>
+    <string name = "pCity">City </string>
+    <string name="btn_Save">Save</string>
+
+
+
+</resources>
